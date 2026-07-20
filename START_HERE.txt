@@ -1,0 +1,19 @@
+EBAY PHOTO TOOL — SIMPLE SETUP
+
+WHAT THIS TOOL DOES
+1. Upload 10, 50, or more photos.
+2. Click one button.
+3. Every photo is edited independently.
+4. Download each edited photo separately, or download one ZIP containing all separate files.
+5. The app never creates a collage.
+
+BEST WAY TO USE IT
+Deploy it once on Streamlit Community Cloud. After that, it works like a normal website from your phone or computer.
+
+FILES TO UPLOAD TO GITHUB
+- app.py
+- requirements.txt
+- README.md
+- .streamlit/config.toml
+
+No OpenAI API key is required.
