@@ -1,13 +1,10 @@
-VERSION 1.4 CRASH FIX
+eBay Photo Tool v1.5
 
-Upload these files to the root of your existing GitHub repository:
+1. Open your GitHub repository: gooey31/-ebay-photo-tool
+2. Replace app.py and requirements.txt with the files from this ZIP.
+3. You may also upload README.md.
+4. Commit the changes to the main branch.
+5. Wait for Streamlit to rebuild, then refresh the app.
+6. Test the three representative headrest photos first.
 
-- app.py
-- requirements.txt
-- README.md
-- START_HERE.txt
-
-GitHub will replace the older versions.
-
-Streamlit should automatically redeploy after you click Commit changes.
-Keep the Streamlit app on Python 3.12.
+Important: the first launch may be slow while the new quality model downloads.
